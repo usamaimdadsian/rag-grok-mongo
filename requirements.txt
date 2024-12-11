@@ -1,0 +1,9 @@
+pymongo
+langchain-community
+langchain-huggingface
+langchain-groq
+pypdf
+langchain_mongodb
+gradio
+nltk
+
